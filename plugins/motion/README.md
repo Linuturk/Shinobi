@@ -16,6 +16,11 @@ yum search arial
 yum install liberation-sans-fonts.noarch
 ```
 
+**FreeBSD only**
+```
+pkg install -y cairo pkgconf
+```
+
 **Install the Node.js Canvas engine**
 
 ```
